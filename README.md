@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iAmNsengi
-- 👀 I’m interested in Python-Django
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on djngo web applications
-- 📫 How to reach me +250785816971 and on qwertystudio@proton.me
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently using NodeJs, Typescript, Express, MongoDB and React Js
+- 💞️ I’m looking to collaborate on any Web Based Software
+- 📫 How to reach me +(250)785-816-971 and on nsengitech@gmail.com
 
 <!---
 iAmNsengi/iAmNsengi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
