@@ -3,6 +3,7 @@
 - 🌱 I’m currently using NodeJs, Typescript, Express, MongoDB and React Js
 - 💞️ I’m looking to collaborate on any Web Based Software
 - 📫 How to reach me +(250)785-816-971 and on nsengitech@gmail.com
+- https://www.codewars.com/users/iAmNsengi/badges/large
 
 <!---
 iAmNsengi/iAmNsengi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
