@@ -5,6 +5,9 @@
 - 📫 How to reach me +(250)785-816-971 and on nsengitech@gmail.com
   
  <img src="https://www.codewars.com/users/iAmNsengi/badges/small"/>
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!---
 iAmNsengi/iAmNsengi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
