@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=iAmNsengi&style=flat-square&color=blue" alt=""/>
  <img src="https://www.codewars.com/users/iAmNsengi/badges/small"/>
 
-<code> My Favorite Algorithm So far : </code>
+<h2><code> My Favorite Algorithm So far : </code></h2>
 ```Javascript
   // sumUnique([1, 2, 2, 3, 4, 4, 5]) ==>  1 + 3 + 5 => 9
 //   sumUnique([10, 20, 20, 30, 40, 40, 50]) ==> 10 + 30 + 50 => 90 
