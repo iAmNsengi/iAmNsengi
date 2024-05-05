@@ -21,7 +21,10 @@
 <img src="https://komarev.com/ghpvc/?username=iAmNsengi&style=flat-square&color=blue" alt=""/>
  <img src="https://www.codewars.com/users/iAmNsengi/badges/small"/>
 
+
+
 <h2><code> My Favorite Algorithm So far : </code></h2>
+
 ```Javascript
   // sumUnique([1, 2, 2, 3, 4, 4, 5]) ==>  1 + 3 + 5 => 9
 //   sumUnique([10, 20, 20, 30, 40, 40, 50]) ==> 10 + 30 + 50 => 90 
@@ -33,7 +36,4 @@ const sumUnique = (arr)=>{
  },{})).filter(([key,value]) => value  === 1).flat().filter(el => typeof el == 'string').reduce((a,b) => parseInt(a)+ parseInt(b) ,0)
 }
 ```
-<!---
-iAmNsengi/iAmNsengi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
