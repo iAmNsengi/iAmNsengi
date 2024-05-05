@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=iAmNsengi&style=flat-square&color=blue" alt=""/>
  <img src="https://www.codewars.com/users/iAmNsengi/badges/small"/>
 
-
+<code> My Favorite Algorithm So far : </code>
  
 <!---
 iAmNsengi/iAmNsengi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
