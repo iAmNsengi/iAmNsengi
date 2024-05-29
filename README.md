@@ -2,7 +2,7 @@
 - 👀 I’m a Software Engineer
 - 🌱 I’m currently using NodeJs, Typescript, Express, MongoDB and React Js
 - 💞️ I’m looking to collaborate on any Web Based Software
-- 📫 How to reach me +(250)785-816-971 and on nsengitech@gmail.com
+- 📫 How to reach me +(250)785-816-971 and on iamnsengi@icloud.com
 - Tools I Use:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
