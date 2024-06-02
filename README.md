@@ -21,7 +21,6 @@
  <img src="https://www.codewars.com/users/iAmNsengi/badges/small"/>
 
 
-
 <h2><code> My Favorite Algorithm So far : </code></h2>
 
 ```Javascript
