@@ -21,17 +21,3 @@
  <img src="https://www.codewars.com/users/iAmNsengi/badges/small"/>
 
 
-<h2><code> My Favorite Algorithm So far : </code></h2>
-
-```Javascript
-  // sumUnique([1, 2, 2, 3, 4, 4, 5]) ==>  1 + 3 + 5 => 9
-//   sumUnique([10, 20, 20, 30, 40, 40, 50]) ==> 10 + 30 + 50 => 90 
-//  sumUniquey([5, 5, 10, 15, 20, 25, 25]) =>  10 + 15 + 20 => 45
-
-const sumUnique = (arr)=>{
- return Object.entries(arr.reduce(function (obj, value2 ){
-    return (obj[value2] ? ++obj[value2] :(obj[value2] = 1),obj)
- },{})).filter(([key,value]) => value  === 1).flat().filter(el => typeof el == 'string').reduce((a,b) => parseInt(a)+ parseInt(b) ,0)
-}
-```
-
