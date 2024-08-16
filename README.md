@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<h5>Social Profiles:  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+<h5>Social Profiles:  <a href="https://www.linkedin.com/in/eliezer-nsengi-6530b0285" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> Eliezer Nsengi
   </a> </h5>
 
