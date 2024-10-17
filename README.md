@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iAmNsengi
 - 👀 I’m a Software Engineer
-- 🌱 I’m currently using NodeJs, Typescript, Express, MongoDB and React Js
+- 🌱 I’m currently using React Ts, Nest Js, Next Js, Prisma, Type ORM
 - 💞️ I’m looking to collaborate on any Web Based Software
 - 📫 How to reach me +(250)785-816-971 and on iamnsengi@icloud.com
 - Tools I Use:
