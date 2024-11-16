@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iAmNsengi
+- 👋 Hi, I’m @iAmNsengi;
 - 👀 I’m a Software Engineer
 - 🌱 I’m currently using React Ts, Nest Js, Next Js, Prisma, Type ORM
 - 💞️ I’m looking to collaborate on any Web Based Software
