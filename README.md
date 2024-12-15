@@ -1,6 +1,12 @@
+<div>
+<div align='left'>
 - 👋 Hi, I’m <b>@iAmNsengi</b> a Software Engineer
 - 🧑‍💻 Creator of npm package: <a href="https://www.npmjs.com/package/regexcraft">RegexCraft</a>
-
+</div>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/iAmNsengi/iAmNsengi/output/snake.svg" alt="Snake animation" />
+</div>
+</div>
 <img src="https://komarev.com/ghpvc/?username=iAmNsengi&style=flat-square&color=blue" alt=""/>
   <div>
     <img src="https://www.codewars.com/users/iAmNsengi/badges/small"/> &nbsp;
