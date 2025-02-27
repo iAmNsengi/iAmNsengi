@@ -1,6 +1,6 @@
 <div>
 <div align='left'>
-Hi, I’m <b>i am Nsengi</b> I like writing codes when I am not busy writing codes. <br/>
+Hi, <b>I am Nsengi</b> I like writing codes when I am not busy writing codes. <br/>
 </div>
 </div>
 <img src="https://komarev.com/ghpvc/?username=iAmNsengi&style=flat-square&color=blue" alt=""/>
