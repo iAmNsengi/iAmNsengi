@@ -1,7 +1,6 @@
 <div>
 <div align='left'>
-- 👋 Hi, I’m <b>@iAmNsengi</b> a Software Engineer <br/>
-- 🧑‍💻 Creator of npm package: <a href="https://www.npmjs.com/package/regexcraft">RegexCraft</a>
+Hi, I’m <b>i am Nsengi</b> I like writing codes when I am not busy writing codes. <br/>
 </div>
 </div>
 <img src="https://komarev.com/ghpvc/?username=iAmNsengi&style=flat-square&color=blue" alt=""/>
