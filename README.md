@@ -4,6 +4,6 @@
 - https://prismoformations.org/
 - https://coroute-website.netlify.app/
 - https://pamoja.health
-- https://bluebook-wzk4.onrender.com/
+- https://www.planetehotelrwanda.com/
 - https://devgadgets.onrender.com
 
