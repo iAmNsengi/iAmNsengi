@@ -1,4 +1,4 @@
-> "Code is like humor. When you have to explain it, it’s bad."
+> "The same food that kills me is keeping me alive, <>...</>."
 ---
 ### Latest 
 - https://prismoformations.org/
