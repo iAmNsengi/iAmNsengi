@@ -2,7 +2,7 @@
 ---
 ### Latest 
 - https://devgadgets.onrender.com
-- https://coroute.ca/
+- https://coroute-staging.netlify.app/
 - https://intern-tracker-0p4a.onrender.com/
 - https://prismoformations.org/
 - https://pamoja.health
