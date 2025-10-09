@@ -1,9 +1,2 @@
-> "The same food that kills me is keeping me alive, <>...</>."
----
-### Latest 
-- https://devgadgets.onrender.com
-- https://coroute-staging.netlify.app/
-- https://intern-tracker-0p4a.onrender.com/
-- https://prismoformations.org/
-- https://pamoja.health
+🤖 "The same food that kills me is keeping me alive, <>...</>."
 
