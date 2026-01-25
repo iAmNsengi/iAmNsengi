@@ -1,3 +1,4 @@
-🤖 "The same food that kills me is keeping me alive, <>...</>." <br>
-JAVASCRIPT | TYPESCRIPT | PYTHON | JAVA | GO
+🤖 `Hereux est l'homme qui se contente de ce qu'il a!`<br>
+<br>
+@Go god,,,
 
